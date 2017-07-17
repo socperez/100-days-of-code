@@ -1,13 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 17, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished FreeCodeCamp's Tribute page and began the Portfolio page.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Struggled a little bit with the Bootstrap CSS on the Tribute page getting things to look the way I wanted. Was able to push through that on the thumbnail look. Starting the get the hang of it but still got a ways to go.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Tribute Page](http://https://codepen.io/socperez/pen/BZqVqa)
+
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
