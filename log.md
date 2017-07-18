@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 17, 2017
+### Day 1: Monday, July 17, 2017
 
 **Today's Progress**: Finished FreeCodeCamp's Tribute page and began the Portfolio page.
 
@@ -8,24 +8,11 @@
 
 **Link to work:** [Tribute Page](http://https://codepen.io/socperez/pen/BZqVqa)
 
+### Day 2: Tuesday July 18, 2017
 
+**Today's Progress**: Worked on the portfolio challenge from freecodecamp.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It's been cool getting familiar with Bootstrap design and how to harness it. Navigating how much I should be making my own CSS edits vs. Bootstrap. This page is taking longer than I anticipated but I feel like I'm making progres.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Build a Personal Portfolio Webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
