@@ -23,5 +23,15 @@
 
 **Thoughts** Got extra familiar and comfortable with the grid system for Bootstrap, different sizing, offsets, etc. Felt good to start to use the classes more intelligently.
 
-**Link(s) to work**
+**Link to work**
 [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+
+
+### Day 4: Thursday, July 20, 2017
+
+**Today's Progress**: Worked through making a clone of the patatap.com website using Paper.js and Howler.js libraries to create some interactive fun.
+
+**Thoughts** Lots of fun! Really enjoyed making something cool and pretty.
+
+**Link to work**
+[Patatap Clone](https://codepen.io/socperez/full/rwXmxw/)
