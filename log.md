@@ -14,7 +14,7 @@
 
 **Thoughts** It's been cool getting familiar with Bootstrap design and how to harness it. Navigating how much I should be making my own CSS edits vs. Bootstrap. This page is taking longer than I anticipated but I feel like I'm making progres.
 
-**Link(s) to work**
+**Link to work**
 [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 
 ### Day 3: Wednesday, July 19, 2017
@@ -35,3 +35,15 @@
 
 **Link to work**
 [Patatap Clone](https://codepen.io/socperez/full/rwXmxw/)
+
+### Day 5: Friday, July 21, 2017
+
+**Today's Progress**: 3 of FreeCodeCamp's Algorithm Scripting challenges. 
+
+**Thoughts** Love this kind of problem solving. Wasn't too bad.
+
+**Links to work**
+1. [Reverse a String](https://www.freecodecamp.org/challenges/reverse-a-string)
+2. [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
+3. [Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
+
