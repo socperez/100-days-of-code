@@ -58,3 +58,11 @@
 2. [Seek and Destroy](https://www.freecodecamp.org/challenges/seek-and-destroy)
 3. [Caesar's Cipher](https://www.freecodecamp.org/challenges/caesars-cipher)
 
+### Day 7: Sunday, July 23, 2017
+
+**Today's Progress**: Worked on the portfolio project from freeCodeCamp. Defined a stopping point as far as styling goes because I already have a similar site built.
+
+**Thoughts** The design side of things is coming along. Bootstrap is a great help.
+
+**Link to work**
+[Portfolio Project](https://codepen.io/socperez/full/ayoegm/)
