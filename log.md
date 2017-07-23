@@ -38,7 +38,7 @@
 
 ### Day 5: Friday, July 21, 2017
 
-**Today's Progress**: 3 of FreeCodeCamp's Algorithm Scripting challenges. 
+**Today's Progress**: 9 of FreeCodeCamp's Algorithm Scripting challenges. 
 
 **Thoughts** Love this kind of problem solving. Wasn't too bad.
 
@@ -46,4 +46,15 @@
 1. [Reverse a String](https://www.freecodecamp.org/challenges/reverse-a-string)
 2. [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
 3. [Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
+
+### Day 6: Saturday, July 22, 2017
+
+**Today's Progress**: 7 of FreeCodeCamp's Algorithm Scripting challenges. 
+
+**Thoughts** Love this kind of problem solving. Wasn't too bad.
+
+**Links to work**
+1. [Chunky Monkey](https://www.freecodecamp.org/challenges/chunky-monkey)
+2. [Seek and Destroy](https://www.freecodecamp.org/challenges/seek-and-destroy)
+3. [Caesar's Cipher](https://www.freecodecamp.org/challenges/caesars-cipher)
 
