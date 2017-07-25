@@ -66,3 +66,12 @@
 
 **Link to work**
 [Portfolio Project](https://codepen.io/socperez/full/ayoegm/)
+
+### Day 8: Monday, July 24, 2017
+
+**Today's Progress**: Worked on a Random Quote Generator from freeCodeCamp projects. Spent a few hours on it today.
+
+**Thoughts** Felt like I learned a lot and came out with a cool finished project. Bootstrap, DOM manipulation with jQuery, a little JavaScript refactoring, the whole bit.
+
+**Link to work**
+[Random Quote Generator](https://codepen.io/socperez/full/YxzJzr)
