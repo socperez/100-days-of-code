@@ -75,3 +75,12 @@
 
 **Link to work**
 [Random Quote Generator](https://codepen.io/socperez/full/YxzJzr)
+
+### Day 9: Tuesday, July 25, 2017
+
+**Today's Progress**: Created a js function that converts integers into Roman Numerals.
+
+**Thoughts** More fun problem-solving. My cup of tea.
+
+**Link to work**
+[Roman Numeral Converter](https://www.freecodecamp.org/challenges/roman-numeral-converter)
