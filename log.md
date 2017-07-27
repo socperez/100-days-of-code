@@ -84,3 +84,13 @@
 
 **Link to work**
 [Roman Numeral Converter](https://www.freecodecamp.org/challenges/roman-numeral-converter)
+
+
+### Day 10: Wednesday, July 26, 2017
+
+**Today's Progress**: Created a js function that searches for key/value pair matches in an array of objects.
+
+**Thoughts** More fun problem-solving. My cup of tea.
+
+**Link to work**
+[WHEREFORE ART THOU?](https://www.freecodecamp.org/challenges/wherefore-art-thou)
