@@ -26,7 +26,6 @@
 **Link to work**
 [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 
-
 ### Day 4: Thursday, July 20, 2017
 
 **Today's Progress**: Worked through making a clone of the patatap.com website using Paper.js and Howler.js libraries to create some interactive fun.
@@ -85,7 +84,6 @@
 **Link to work**
 [Roman Numeral Converter](https://www.freecodecamp.org/challenges/roman-numeral-converter)
 
-
 ### Day 10: Wednesday, July 26, 2017
 
 **Today's Progress**: Created a js function that searches for key/value pair matches in an array of objects.
@@ -93,4 +91,11 @@
 **Thoughts** More fun problem-solving. My cup of tea.
 
 **Link to work**
-[WHEREFORE ART THOU?](https://www.freecodecamp.org/challenges/wherefore-art-thou)
+[Wherefore art thou?](https://www.freecodecamp.org/challenges/wherefore-art-thou)
+
+### Day 11: Thursday, July 27, 2017
+
+**Today's Progress**: Solved 7 algorithm scripting problems in freecodecamp, link below through Spinal Tap Case
+
+**Link to work**
+[Search and Replace](https://www.freecodecamp.org/challenges/search-and-replace)
