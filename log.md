@@ -95,7 +95,15 @@
 
 ### Day 11: Thursday, July 27, 2017
 
-**Today's Progress**: Solved 7 algorithm scripting problems in freecodecamp, link below through Spinal Tap Case
+**Today's Progress**: Solved 7 algorithm scripting problems in freecodecamp, link below through Spinal Tap Case. Probably 3 hours of coding!
 
 **Link to work**
 [Search and Replace](https://www.freecodecamp.org/challenges/search-and-replace)
+
+### Day 12: Friday, July 28, 2017
+
+**Today's Progress**: Worked through 6 algorithm scripting exercises. Took a few hours but loved it. The two most difficult ones did have my head spinning a bit. (They're listed below.) Array "steamrolling" made me relearn recursion from college days. LCM one made me relearn math. ;-)
+
+**Link to work**
+[Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+[Steamroller](https://www.freecodecamp.org/challenges/steamroller)
