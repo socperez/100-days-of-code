@@ -104,6 +104,13 @@
 
 **Today's Progress**: Worked through 6 algorithm scripting exercises. Took a few hours but loved it. The two most difficult ones did have my head spinning a bit. (They're listed below.) Array "steamrolling" made me relearn recursion from college days. LCM one made me relearn math. ;-)
 
+**Links to work**
+1. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+2. [Steamroller](https://www.freecodecamp.org/challenges/steamroller)
+
+### Day 13: Saturday, July 29, 2017
+
+**Today's Progress**: Worked a bit on the Weather App project, but didn't get very far. Learning more about how to use $getJSON and grab data from other sites.
+
 **Link to work**
-[Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
-[Steamroller](https://www.freecodecamp.org/challenges/steamroller)
+[Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
