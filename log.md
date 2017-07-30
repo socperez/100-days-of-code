@@ -6,7 +6,8 @@
 
 **Thoughts:** Struggled a little bit with the Bootstrap CSS on the Tribute page getting things to look the way I wanted. Was able to push through that on the thumbnail look. Starting the get the hang of it but still got a ways to go.
 
-**Link to work:** [Tribute Page](http://https://codepen.io/socperez/pen/BZqVqa)
+**Link to work:** 
+[Tribute Page](http://https://codepen.io/socperez/pen/BZqVqa)
 
 ### Day 2: Tuesday, July 18, 2017
 
@@ -110,7 +111,7 @@
 
 ### Day 13: Saturday, July 29, 2017
 
-**Today's Progress**: Worked a bit on the Weather App project, but didn't get very far. Learning more about how to use $getJSON and grab data from other sites.
+**Today's Progress**: Worked a bit on the Weather App project, but didn't get very far. Learning more about how to use $getJSON and grab data from other sites. Also finished the last 3 intermediate algorithm scripting problems.
 
 **Link to work**
 [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
