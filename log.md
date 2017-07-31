@@ -115,3 +115,10 @@
 
 **Link to work**
 [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
+
+### Day 14: Sunday, July 30, 2017
+
+**Today's Progress**: More trying things out with gettig JSON information. Might stick with JS instead of jquery because it's worked for me so far. Starting tomorrow by trying out js code on the pass through API on freecodecamp.
+
+**Link to work**
+[Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
