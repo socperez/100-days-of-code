@@ -123,10 +123,16 @@
 **Link to work**
 [Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
 
-
 ### Day 15: Monday, July 31, 2017
 
 **Today's Progress**: Got it! Got the data at least. Now to work through the structure and styling of the site. And add the link functionality to convert temperature units. UPDATE: It's finished!
 
 **Link to work**
 [Weather App](https://codepen.io/socperez/full/gxPPeb/)
+
+### Day 16: Tuesday, August 1, 2017
+
+**Today's Progress**: Completed the US Telephone Number validation algorithm. Got really familiar with using some powerful regular expressions for search and slice.
+
+**Link to work**
+[Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
