@@ -126,7 +126,7 @@
 
 ### Day 15: Monday, July 31, 2017
 
-**Today's Progress**: Got it! Got the data at least. Now to work through the structure and styling of the site. And add the link functionality to convert temperature units.
+**Today's Progress**: Got it! Got the data at least. Now to work through the structure and styling of the site. And add the link functionality to convert temperature units. UPDATE: 
 
 **Link to work**
-[Show the Local Weather](https://www.freecodecamp.org/challenges/show-the-local-weather)
+[Weather App](https://codepen.io/socperez/full/gxPPeb/)
