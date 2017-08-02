@@ -136,3 +136,12 @@
 
 **Link to work**
 [Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
+
+
+### Day 17: Wednesday, August 2, 2017
+
+**Today's Progress**: More 
+
+**Link to work**
+[Record Collection](https://www.freecodecamp.org/challenges/record-collection)
+[Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
