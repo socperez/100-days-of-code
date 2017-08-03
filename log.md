@@ -140,8 +140,16 @@
 
 ### Day 17: Wednesday, August 2, 2017
 
-**Today's Progress**: More 
+**Today's Progress**: More algorithms! Tougher, but still fun.
 
-**Link to work**
+**Links to work**
 [Record Collection](https://www.freecodecamp.org/challenges/record-collection)
 [Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
+
+
+### Day 18: Thursday, August 3, 2017
+
+**Today's Progress**: More algorithm scripting. Worked a bit on trying to keep the code as clean and DRY as I could.
+
+**Link to work**
+[Exact Change](https://www.freecodecamp.org/challenges/exact-change)
