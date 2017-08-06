@@ -153,3 +153,24 @@
 
 **Link to work**
 [Exact Change](https://www.freecodecamp.org/challenges/exact-change)
+
+### Day 19: Friday, August 4, 2017
+
+**Today's Progress**: Worked on Wikipedia Viewer project. Mapped out what I want this to look like and started looking into the Javascript and CSS necessary. Building on Bootstrap design.
+
+**Link to work**
+[Wikipedia Viewer Project](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+
+### Day 20: Saturday, August 5, 2017
+
+**Today's Progress**: More on Wikipedia Viewer. Also completed an Inventory Update algorithm.
+
+**Link to work**
+[Inventory Update](https://www.freecodecamp.org/challenges/inventory-update)
+
+### Day 21: Sunday, August 6, 2017
+
+**Today's Progress**: Spent time digging into the Wikipedia API to figure out the calls that I need to egt the right info. Also spent time in Web Developer Bootcamp to start diving into JS backend.
+
+**Link to work**
+[Wikipedia Viewer Project](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
