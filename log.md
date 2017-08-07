@@ -174,3 +174,10 @@
 
 **Link to work**
 [Wikipedia Viewer Project](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+
+### Day 22: Monday, August 7, 2017
+
+**Today's Progress**: Working on the "No repeats please" problem in FreeCodeCamp... Dang. Pretty much spent all my time remembering how permutations, combinations, and factorials work. Lotta math brain today! Not feeling super closer on this problem, but I'm sure the math refresh helped.
+
+**Link to work**
+[No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
