@@ -181,3 +181,10 @@
 
 **Link to work**
 [No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
+
+### Day 23: Tuesday, August 8, 2017
+
+**Today's Progress**: Made progress on the Wiki Viewer! Got the data loading to work so I can access search results JSON which provides a title, description, link to article... all I need! Started working on DOM manipulation to respond to user interaction.
+
+**Link to work**
+[Wikipedia Viewer Project](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
