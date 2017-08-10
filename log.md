@@ -188,3 +188,19 @@
 
 **Link to work**
 [Wikipedia Viewer Project](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+
+### Day 24: Wednesday, August 9, 2017
+
+**Today's Progress**: More Wiki Viewer progress... Worked on user interaction with search.
+
+**Link to work**
+[Wikipedia Viewer Project](https://codepen.io/socperez/pen/KvNQeg)
+
+### Day 25: Thursday, August 10, 2017
+
+**Today's Progress**: Worked on search results presentation in the Wiki Viewer.
+
+**Link to work**
+[Wikipedia Viewer Project](https://codepen.io/socperez/pen/KvNQeg)
+
+
