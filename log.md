@@ -203,4 +203,18 @@
 **Link to work**
 [Wikipedia Viewer Project](https://codepen.io/socperez/pen/KvNQeg)
 
+### Day 26: Friday, August 11, 2017
+
+**Today's Progress**: Finished up the loading of search results! Feeling good!
+
+**Link to work**
+[Wikipedia Viewer Project](https://codepen.io/socperez/full/KvNQeg)
+
+### Day 27: Saturday, August 12, 2017
+
+**Today's Progress**: Finished up styling of colors, fonts, etc.
+
+**Link to work**
+[Wikipedia Viewer Project](https://codepen.io/socperez/full/KvNQeg)
+
 
