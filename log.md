@@ -217,4 +217,11 @@
 **Link to work**
 [Wikipedia Viewer Project](https://codepen.io/socperez/full/KvNQeg)
 
+### Day 28: Sunday, August 12, 2017
+
+**Today's Progress**: Worked on a couple of the advanced algorithms at freeCodeCamp. Also continued learning about Node JS via Web Dev Bootcamp on Udemy.
+
+**Links to work**
+1. [Make a Person](https://www.freecodecamp.org/challenges/make-a-person)
+2. [Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
 
