@@ -225,3 +225,10 @@
 1. [Make a Person](https://www.freecodecamp.org/challenges/make-a-person)
 2. [Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
 
+### Day 29: Monday, August 13, 2017
+
+**Today's Progress**: Solved the pairwise algorithm on FreeCodeCamp. Only have one more of those to go to satisfy all algorithms for the front end certification!
+
+**Links to work** 
+[Pairwise](https://www.freecodecamp.org/challenges/pairwise)
+
