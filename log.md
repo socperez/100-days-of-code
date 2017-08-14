@@ -217,7 +217,7 @@
 **Link to work**
 [Wikipedia Viewer Project](https://codepen.io/socperez/full/KvNQeg)
 
-### Day 28: Sunday, August 12, 2017
+### Day 28: Sunday, August 13, 2017
 
 **Today's Progress**: Worked on a couple of the advanced algorithms at freeCodeCamp. Also continued learning about Node JS via Web Dev Bootcamp on Udemy.
 
@@ -225,10 +225,10 @@
 1. [Make a Person](https://www.freecodecamp.org/challenges/make-a-person)
 2. [Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
 
-### Day 29: Monday, August 13, 2017
+### Day 29: Monday, August 14, 2017
 
 **Today's Progress**: Solved the pairwise algorithm on FreeCodeCamp. Only have one more of those to go to satisfy all algorithms for the front end certification!
 
-**Links to work** 
+**Link to work** 
 [Pairwise](https://www.freecodecamp.org/challenges/pairwise)
 
