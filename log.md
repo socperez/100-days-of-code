@@ -232,3 +232,10 @@
 **Link to work** 
 [Pairwise](https://www.freecodecamp.org/challenges/pairwise)
 
+### Day 30: Tuesday, August 15, 2017
+
+**Today's Progress**: Began the TwitchTV challenge today. Seems pretty simple and straightforward. Either that or the last one taught me  a ton of stuff because it took foreva. Twitch's API isn't as complex to sort out what info you want to get. I think just 1 or 2 more days of this (2-3 hours) and I'll have it done.
+
+**Link to work** 
+[TwitchTV Project](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+
