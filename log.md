@@ -260,3 +260,10 @@
 **Link to work** 
 [TwitchTV Project](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 
+### Day 34: Saturday, August 19, 2017
+
+**Today's Progress**: Finished "No Repeats Please" and worked with EJS.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
+
