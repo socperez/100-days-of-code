@@ -239,3 +239,24 @@
 **Link to work** 
 [TwitchTV Project](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 
+### Day 31: Wednesday, August 16, 2017
+
+**Today's Progress**: Worked with Node JS and Express. Just starting to get familiar with it.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
+
+### Day 32: Thursday, August 17, 2017
+
+**Today's Progress**: Worked with Node JS and Express. Just starting to get familiar with it.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
+
+### Day 33: Friday, August 18, 2017
+
+**Today's Progress**: Completed the TwitchTV Project!
+
+**Link to work** 
+[TwitchTV Project](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+
