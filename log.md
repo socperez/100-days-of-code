@@ -267,3 +267,18 @@
 **Link to work** 
 [WebDev Bootcamp](http://udemy.com)
 
+### Day 35: Sunday, August 20, 2017
+
+**Today's Progress**: Started Javascript Calculator project. Mostly structure of the web app.
+
+**Link to work** 
+[JavaScript Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+
+
+### Day 36: Monday, August 21, 2017
+
+**Today's Progress**: Built in lots of the functionality and interaction for Calculator.
+
+**Link to work** 
+[JavaScript Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+
