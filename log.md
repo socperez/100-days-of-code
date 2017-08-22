@@ -282,3 +282,10 @@
 **Link to work** 
 [JavaScript Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
 
+### Day 37: Tuesday, August 22, 2017
+
+**Today's Progress**: More Calculator functionality. Lots of little details to make sure it works right. Almost there with this part of the project. Eager to get to the look of it.
+
+**Link to work** 
+[JavaScript Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+
