@@ -289,3 +289,10 @@
 **Link to work** 
 [JavaScript Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
 
+### Day 38: Wednesday, August 23, 2017
+
+**Today's Progress**: CSS styling on the Calculator. Went with retro monospace look. Looks alright. I finished!
+
+**Link to work** 
+[Calculator](https://codepen.io/socperez/pen/jLzVpW?editors=1010)
+
