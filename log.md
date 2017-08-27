@@ -296,3 +296,18 @@
 **Link to work** 
 [Calculator](https://codepen.io/socperez/pen/jLzVpW?editors=1010)
 
+### Day 39: Thursday, August 24, 2017
+
+**Today's Progress**: NodeJS work with routes.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
+
+MISSED FRIDAY
+
+### Day 40: Saturday, August 26, 2017
+
+**Today's Progress**: Work with Post requests on NodeJS.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
