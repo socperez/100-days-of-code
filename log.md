@@ -311,3 +311,10 @@ MISSED FRIDAY
 
 **Link to work** 
 [WebDev Bootcamp](http://udemy.com)
+
+### Day 41: Sunday, August 27, 2017
+
+**Today's Progress**: Worked through CSS Exercises on W3School.
+
+**Link to work** 
+[CSS Exercises](https://www.w3schools.com/css/css_exercises.asp)
