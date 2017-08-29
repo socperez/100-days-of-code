@@ -318,3 +318,22 @@ MISSED FRIDAY
 
 **Link to work** 
 [CSS Exercises](https://www.w3schools.com/css/css_exercises.asp)
+
+### Day 42: Monday, August 28, 2017
+
+**Today's Progress**: Worked with the OMDb API in Node JS.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
+
+**Link to work** 
+[CSS Exercises](https://www.w3schools.com/css/css_exercises.asp)
+
+### Day 43: Tuesday, August 29, 2017
+
+**Today's Progress**: More work with APIs in WebDev Bootcamp. Began the YelpCamp project by setting up a couple of routes, some data, and EJS pages.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
+
+
