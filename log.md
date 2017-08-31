@@ -336,4 +336,16 @@ MISSED FRIDAY
 **Link to work** 
 [WebDev Bootcamp](http://udemy.com)
 
+### Day 44: Wednesday, August 30, 2017
 
+**Today's Progress**: Spent some time learning MongoDB and Mongoose ODM, working with syntax.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
+
+### Day 45: Thursday, August 31, 2017
+
+**Today's Progress**: Worked with MongoDB and Mongoose within the context of YelpCamp project.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
