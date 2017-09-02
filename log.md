@@ -350,7 +350,7 @@ MISSED FRIDAY
 **Link to work** 
 [WebDev Bootcamp](http://udemy.com)
 
-### Day 45: Friday, September 1, 2017
+### Day 46: Friday, September 1, 2017
 
 **Today's Progress**: Learned about RESTful routes and added a show page with id to YelpCamp app.
 
