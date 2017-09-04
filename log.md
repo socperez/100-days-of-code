@@ -356,3 +356,24 @@ MISSED FRIDAY
 
 **Link to work** 
 [WebDev Bootcamp](http://udemy.com)
+
+### Day 47: Saturday, September 2, 2017
+
+**Today's Progress**: Practiced RESTful routes by building a Blog site.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
+
+### Day 48: Sunday, September 3, 2017
+
+**Today's Progress**: Practiced RESTful routes by building a Blog site.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
+
+### Day 49: Monday, September 4, 2017
+
+**Today's Progress**: Practiced RESTful routes by building a Blog site.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
