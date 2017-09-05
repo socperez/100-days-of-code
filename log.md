@@ -377,3 +377,11 @@ MISSED FRIDAY
 
 **Link to work** 
 [WebDev Bootcamp](http://udemy.com)
+
+
+### Day 50: Tuesday, September 5, 2017
+
+**Today's Progress**: Started the Pomodoro Clock project on freeCodeCamp. PUMPED!
+
+**Link to work** 
+[Pomodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
