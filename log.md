@@ -385,3 +385,17 @@ MISSED FRIDAY
 
 **Link to work** 
 [Pomodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+
+### Day 51: Wednesday, September 6, 2017
+
+**Today's Progress**: Worked on YelpCamp routes.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
+
+### Day 52: Thursday, September 7, 2017
+
+**Today's Progress**: Worked on YelpCamp routes.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
