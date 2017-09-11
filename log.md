@@ -399,3 +399,10 @@ MISSED FRIDAY
 
 **Link to work** 
 [WebDev Bootcamp](http://udemy.com)
+
+### Day 53-56: Friday-Monday, September 8-11, 2017
+
+**Today's Progress**: Learned authentication with Passport, Mongoose, and NodeJS over the course of a few days. Began applying authentication to YelpCamp project.
+
+**Link to work** 
+[WebDev Bootcamp](http://udemy.com)
